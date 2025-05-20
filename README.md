@@ -12,9 +12,7 @@ Installation
 
 Open a terminal.
 
-Clone the repository by using the command
-
- git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+Clone the repository
 
 Download and install Ganache.
 
