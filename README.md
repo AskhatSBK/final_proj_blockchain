@@ -42,13 +42,6 @@ In the database created, create new table named voters in the given format and a
     password VARCHAR(255) NOT NULL
     );
 
-
- +--------------------------------------+-------+-----------+
- | voter_id                             | role  | password  |
- +--------------------------------------+-------+-----------+
- |                                      |       |           |
- +--------------------------------------+-------+-----------+
-
 Install truffle globally
 
 npm install -g truffle
